@@ -1,24 +1,24 @@
 class Solution {
-    public int smallestNumber(int n, int t) {
-        while(true){
-            int num = n;
-            int product = 1;
-        
-            // product of digits
-            while(num > 0){
-                int dig = num % 10;
-                product *= dig;
-                num /= 10;
-                
-            }
-            // check for divisible 
-            if(product % t ==0) 
-                return n;
-
-                n++;
-
+    public int FindDigitprod( int num){
+        int prod = 1;
+        while( num > 0) {
+            prod = prod*(num%10);
+            if(prod == 0)
+                return 0;
             
-        }    
+            num /=10;
+        }
+        return prod;
+
+    }
+    public int smallestNumber(int n, int t) {
+        for( int num = n; num <= n+10; num++){
+            if(FindDigitprod(num) % t == 0){
+                return num;
+            }    
+        }
+
+        return -1;
         
     }
 }
