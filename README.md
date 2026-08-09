@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0229-majority-element-ii) |
+| [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -53,4 +55,24 @@
 | ------- |
 | [0015-3sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0018-4sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
