@@ -11,6 +11,7 @@
 | [0229-majority-element-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -18,6 +19,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0525-contiguous-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
