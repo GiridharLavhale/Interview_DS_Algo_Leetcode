@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0229-majority-element-ii) |
@@ -67,10 +68,12 @@
 | ------- |
 | [0015-3sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
@@ -109,4 +112,12 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
