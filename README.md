@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0493-reverse-pairs) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
