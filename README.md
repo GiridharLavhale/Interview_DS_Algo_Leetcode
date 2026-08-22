@@ -83,6 +83,7 @@
 | [0018-4sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0179-largest-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
