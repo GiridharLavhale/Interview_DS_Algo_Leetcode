@@ -69,6 +69,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -109,6 +110,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -144,11 +146,13 @@
 | [0151-reverse-words-in-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0179-largest-number) |
 | [1386-cinema-seat-allocation](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
