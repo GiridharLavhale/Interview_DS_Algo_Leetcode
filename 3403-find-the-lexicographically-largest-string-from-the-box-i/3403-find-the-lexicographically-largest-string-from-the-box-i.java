@@ -1,5 +1,5 @@
 class Solution {
-    public String answerString(String word, int numFriends) {
+    public String answerString(String word, int numFriends) { // O(n^2) t.c and S.c O(1)
         int n = word.length();
 
         if (numFriends == 1) {
