@@ -38,6 +38,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3713-longest-balanced-substring-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3731-find-missing-elements) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0229-majority-element-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3713-longest-balanced-substring-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 | [0179-largest-number](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
+| [3713-longest-balanced-substring-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
