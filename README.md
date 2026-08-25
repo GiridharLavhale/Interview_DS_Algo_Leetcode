@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0392-is-subsequence) |
 | [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
