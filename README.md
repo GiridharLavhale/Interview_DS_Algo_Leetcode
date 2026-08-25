@@ -19,6 +19,7 @@
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -105,6 +106,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
@@ -198,6 +200,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0493-reverse-pairs) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
