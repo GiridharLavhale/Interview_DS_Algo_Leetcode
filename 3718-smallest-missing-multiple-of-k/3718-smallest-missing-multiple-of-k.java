@@ -23,8 +23,10 @@ class Solution {
 
         HashSet<Integer> s = new HashSet<>();
 
-        for(int num: nums){
-            s.add(num);
+        for(int n: nums){
+            if(n % k ==0){
+                s.add(n);
+            }
         }
 
         int multiple = k;
