@@ -1,39 +1,25 @@
 class Solution {
-
-    public int bestStartingPoint(String word, int n) {
-        int i = 0; // best starting point
-        int j = 1; // keep moving to find the best starting point
-
-        while (j < n) {
-            int k = 0;
-
-            // skipping equal characters
-            while (j + k < n && word.charAt(i + k) == word.charAt(j + k)) {
-                k++;
-            }
-
-            if (j + k < n && word.charAt(j + k) > word.charAt(i + k)) {
-                i = j; // updating best starting point
-                j = j + 1;
-            } else {
-                j = j + k + 1; // skipping already checked characters
-            }
-        }
-
-        return i;
-    }
-
-    public String answerString(String word, int numFriends) {
+    public String answerString(String word, int numFriends) { // O(n^2) t.c and S.c O(1)
         int n = word.length();
 
         if (numFriends == 1) {
             return word;
         }
 
-        int i = bestStartingPoint(word, n);
-        int longestPossibleLength = n - (numFriends - 1);
-        int canTakePossible = Math.min(longestPossibleLength, n - i);
+        int longestpossible = n - (numFriends-1);
+        String result = " ";
 
-        return word.substring(i, i + canTakePossible);
+        for(int i = 0; i < n; i++){
+            int canTakeLength = Math.min(longestpossible, n-i);
+           
+           String current = word.substring(i, i + canTakeLength);
+
+            if (current.compareTo(result) > 0) {
+                result = current;
+            }
+        }
+
+        return result;
+        
     }
 }
