@@ -27,6 +27,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@
 | [0525-contiguous-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1872-stone-game-viii) |
+| [3719-longest-balanced-subarray-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -204,6 +208,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
