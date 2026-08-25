@@ -23,6 +23,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
