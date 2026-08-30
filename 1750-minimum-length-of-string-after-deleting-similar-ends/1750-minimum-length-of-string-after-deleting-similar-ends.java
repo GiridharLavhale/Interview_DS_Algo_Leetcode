@@ -1,21 +1,21 @@
-public class Solution {
-    public int minimumLength(String s) {  //T.C : O(n) S.C : O(1)
+class Solution {
+    public int minimumLength(String s) { // T.c = O(n) S.C = O(1)
         int n = s.length();
 
-        int i = 0, j = n - 1;
+        int i = 0; 
+        int j = s.length()-1;
 
-        while (i < j && s.charAt(i) == s.charAt(j)) {
+        while(i < j && s.charAt(i) == s.charAt(j)){
             char ch = s.charAt(i);
-
-            while (i < j && s.charAt(i) == ch) {
+            while( i < j && s.charAt(i) == ch){
                 i++;
             }
-
-            while (j >= i && s.charAt(j) == ch) {
+            while( j >= i && s.charAt(j) == ch){
                 j--;
             }
         }
 
-        return j - i + 1;
+        return j-i+1;
+        
     }
 }
