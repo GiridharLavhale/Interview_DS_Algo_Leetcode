@@ -275,4 +275,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0881-boats-to-save-people) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
