@@ -143,6 +143,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0392-is-subsequence) |
 | [0838-push-dominoes](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0838-push-dominoes) |
@@ -208,6 +209,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
