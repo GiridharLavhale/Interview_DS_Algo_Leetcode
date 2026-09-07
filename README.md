@@ -225,6 +225,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3713-longest-balanced-substring-i) |
