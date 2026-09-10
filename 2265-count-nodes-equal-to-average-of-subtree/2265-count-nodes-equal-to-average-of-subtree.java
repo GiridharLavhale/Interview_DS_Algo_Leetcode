@@ -13,47 +13,42 @@
  *     }
  * }
  */
-//Approach-1 (Brute Force)
-//T.C : O(n^2) For every root, you visit it's subtree to find average
-//S.C : O(1) (excluding recursion stack space)
-public class Solution {
+class Solution {
     private int result;
-    
-    private int sum(TreeNode root, int[] count) {
-        if (root == null) {
-            return 0;
+
+    private Pair<Integer, Integer> solve(TreeNode root){
+        if(root == null){
+            return new Pair<>(0,0);
         }
-        
-        count[0]++;
-        
-        int leftSum = sum(root.left, count);
-        int rightSum = sum(root.right, count);
-        
-        return leftSum + rightSum + root.val;
+
+        Pair<Integer, Integer> left = solve(root.left);
+        Pair<Integer, Integer> right = solve(root.right);
+
+        int leftsum = left.getKey();
+        int leftcount = left.getValue();
+
+        int rightsum = right.getKey();
+        int rightcount = right.getValue();
+
+        int Sum = leftsum + rightsum + root.val;
+        int Count = leftcount + rightcount + 1;
+
+        int Avg = (Sum/Count);
+
+        if(Avg == root.val){
+            result += 1;
+        }
+
+        return new Pair<>(Sum, Count);
+
+
     }
-    
-    private void solve(TreeNode root) {
-        if (root == null) {
-            return;
-        }
-        
-        int[] count = {0};
-        int totalSum = sum(root, count);
-        
-        if (totalSum / count[0] == root.val) {
-            result++;
-        }
-        
-        solve(root.left);
-        solve(root.right);
-    }
-    
     public int averageOfSubtree(TreeNode root) {
         result = 0;
-        
+
         solve(root);
-        
+
         return result;
+        
     }
 }
-
