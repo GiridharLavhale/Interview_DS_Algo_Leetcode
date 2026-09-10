@@ -20,6 +20,7 @@
 | [0229-majority-element-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
@@ -273,6 +274,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
