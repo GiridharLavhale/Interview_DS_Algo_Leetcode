@@ -117,6 +117,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0069-sqrtx) |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1872-stone-game-viii) |
@@ -282,6 +283,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0162-find-peak-element) |
@@ -351,4 +353,8 @@
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
