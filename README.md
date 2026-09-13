@@ -22,6 +22,7 @@
 | [0493-reverse-pairs](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0835-image-overlap](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0962-maximum-width-ramp) |
@@ -276,6 +277,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0835-image-overlap) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
