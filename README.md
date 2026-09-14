@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0069-sqrtx) |
+| [0836-rectangle-overlap](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1872-stone-game-viii) |
@@ -361,4 +362,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
