@@ -30,6 +30,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1386-cinema-seat-allocation](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1872-stone-game-viii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -62,6 +63,7 @@
 | [0763-partition-labels](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0763-partition-labels) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1386-cinema-seat-allocation](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1872-stone-game-viii) |
 | [3719-longest-balanced-subarray-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3903-smallest-stable-index-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -221,6 +224,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -297,6 +301,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
