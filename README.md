@@ -233,6 +233,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0962-maximum-width-ramp](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0962-maximum-width-ramp) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [0763-partition-labels](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0763-partition-labels) |
 | [0838-push-dominoes](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0838-push-dominoes) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -375,4 +377,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
