@@ -1,47 +1,6 @@
-class Solution { // T.C = O(m*n*(m+n)) // Top Down 
+class Solution {  // Bottom up T.C = O(m*n*(m+n)) S.C = O(m*n*(m+n))
     int m, n;
-    int[][][] t;
-
-    public boolean solve(int i, int j, int openCount, char[][] grid){
-        openCount += (grid[i][j] == '(') ? 1 : -1;
-
-        if(openCount < 0){
-            return false;
-        }
-
-        if(t[i][j][openCount] != -1){
-            return t[i][j][openCount] == 1; 
-        }
-
-        if(i == m-1 && j == n-1 ){
-            t[i][j][openCount] = (openCount == 0) ? 1 : 0;
-            return openCount == 0;
-        }
-
-        
-
-        boolean result = false;
-        // Move Down 
-        if(i+1 < m){
-            if(solve(i+1, j, openCount, grid) == true){
-                t[i][j][openCount] = 1;
-                return true;
-            }
-        }
-
-        // Move right 
-        if(j+1 < n ){
-            if(solve(i, j+1, openCount, grid) == true){
-                t[i][j][openCount] = 1;
-                return true;
-            }
-        }
-        
-
-        t[i][j][openCount] = 0;
-        return false;
-
-    }
+    boolean[][][] t;
     public boolean hasValidPath(char[][] grid) {
         m = grid.length;
         n = grid[0].length;
@@ -54,14 +13,38 @@ class Solution { // T.C = O(m*n*(m+n)) // Top Down
             return false;
         }
 
-        t = new int[m][n][201];
-        for(int[][] row : t){
-            for(int[] col : row){
-                Arrays.fill(col, -1);
+        t = new boolean[m][n][201];
+
+        for(int i = m-1; i >= 0; i--){
+            for(int j = n-1; j >= 0; j--){
+                for(int openCount = 0; openCount <= i+j+1; openCount++){
+                    if(i == m-1 && j == n-1){
+                        t[i][j][openCount] = (openCount == 0);
+                        continue;
+                    }
+
+                    t[i][j][openCount] = false;
+
+                    // move down 
+                    if(i+1 < m){
+                        int newopenCount = (grid[i+1][j] == '(')? openCount + 1 : openCount - 1;
+                        if(newopenCount >=0 && t[i+1][j][newopenCount]){
+                            t[i][j][openCount] = true;
+                            
+                        }
+                    }
+                    // move right 
+                    if(j+1 < n){
+                        int newopenCount = (grid[i][j+1] == '(')? openCount + 1 : openCount - 1;
+                        if(newopenCount >=0 && t[i][j+1][newopenCount]){
+                            t[i][j][openCount] = true;
+                        }
+                    }
+                }
             }
         }
 
-        return solve(0, 0, 0, grid); 
+        return t[0][0][1];
         
     }
 }
