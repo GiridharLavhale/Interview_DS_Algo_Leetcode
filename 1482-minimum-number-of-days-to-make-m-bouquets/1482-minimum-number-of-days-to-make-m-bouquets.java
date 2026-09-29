@@ -81,14 +81,14 @@ class Solution {
     }
 }
 
-public class Main {
-    // Driver code starts
-    public static void main(String[] args) {
-        int[] bloomDay = {1, 10, 3, 10, 2};
-        int m = 3;
-        int k = 1;
+// public class Main {
+//     // Driver code starts
+//     public static void main(String[] args) {
+//         int[] bloomDay = {1, 10, 3, 10, 2};
+//         int m = 3;
+//         int k = 1;
 
-        Solution obj = new Solution();
-        System.out.println(obj.minDays(bloomDay, m, k));
-    }
-}
+//         Solution obj = new Solution();
+//         System.out.println(obj.minDays(bloomDay, m, k));
+//     }
+// }
