@@ -15,7 +15,7 @@ class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         int low = 1;
         int high = 0;
-        int ans = -1;
+        
         // Maximum posssible divisor 
         for(int num: nums){
             high = Math.max(high, num);
@@ -24,14 +24,13 @@ class Solution {
         while( low <= high){
             int mid = low + (high - low) / 2;  // low + high / 2
             if(SumByD(nums, mid, threshold ) <= threshold){
-                ans = mid; // if mid is answer 
                 high = mid - 1; // need a smaller divisor
 
             }else{
                 low = mid + 1; 
             }
         }
-        return ans;
+        return low;
         
     }
 }
