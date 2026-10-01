@@ -26,6 +26,7 @@
 | [0875-koko-eating-bananas](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0962-maximum-width-ramp) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -312,6 +313,7 @@
 | [0493-reverse-pairs](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
