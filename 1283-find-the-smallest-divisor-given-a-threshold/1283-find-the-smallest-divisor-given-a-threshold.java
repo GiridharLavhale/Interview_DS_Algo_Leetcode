@@ -1,25 +1,29 @@
 class Solution {
-    private int SumByD(int[] nums, int Div){
+    private int SumByD(int[] nums, int Div, int threshold ){
         int sum = 0;
-        int n = nums.length;
-        for(int i = 0; i < n; i++){
-            sum += Math.ceil((double)(nums[i]) / (double)(Div));  // Division happens 
+        for(int num : nums){
+            sum += (num-1) / Div+1;  // Division happens 
+        
+
+            // Early Check 
+            if(sum > threshold){
+                return sum;
+            }
         }
         return sum;
     }
     public int smallestDivisor(int[] nums, int threshold) {
         int low = 1;
-        // int high = Integer.MIN_VALUE;
-        int high = Arrays.stream(nums).max().getAsInt();
+        int high = 0;
         int ans = -1;
-    //    // find the maximum number 
-    //     for(int num : nums){
-    //         high = Math.max(high, num);
-    //     }
+        // Maximum posssible divisor 
+        for(int num: nums){
+            high = Math.max(high, num);
+        }
 
         while( low <= high){
             int mid = low + (high - low) / 2;  // low + high / 2
-            if(SumByD(nums, mid) <= threshold){
+            if(SumByD(nums, mid, threshold ) <= threshold){
                 ans = mid; // if mid is answer 
                 high = mid - 1; // need a smaller divisor
 
