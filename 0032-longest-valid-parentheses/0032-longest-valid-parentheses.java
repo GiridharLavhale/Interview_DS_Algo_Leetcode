@@ -24,7 +24,7 @@ class Solution {
         // Right To Left
         open = 0;
         close = 0;
-        for(int i = n-1; i > 0; i--){
+        for(int i = n-1; i >= 0; i--){ // at this time 
             if(s.charAt(i) == '('){
                 open++;
             }else{
