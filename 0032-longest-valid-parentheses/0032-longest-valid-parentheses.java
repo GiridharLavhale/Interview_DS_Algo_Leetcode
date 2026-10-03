@@ -1,45 +1,66 @@
 class Solution {
     public int longestValidParentheses(String s) {
+        // int n = s.length();
+
+        // int open = 0;
+        // int close = 0;
+
+        // // Left To Right 
+        // int result = 0;
+        // for(int i = 0; i < n; i++){
+        //     if(s.charAt(i) == '('){
+        //         open++;
+        //     }else{
+        //         close++;
+        //     }
+
+        //     if(open == close ){
+        //         result = Math.max(result, open + close); 
+        //     }else if(close > open ){ // going from left to right , if close is more , it's no more valid 
+        //         open = close = 0;
+        //     }
+        // }
+
+        // // Right To Left
+        // open = 0;
+        // close = 0;
+        // for(int i = n-1; i >= 0; i--){ // at this time i am put i >= 0 , previously it is i > 0
+        //     if(s.charAt(i) == '('){
+        //         open++;
+        //     }else{
+        //         close++;
+        //     }
+
+        //     if(open == close ){
+        //         result = Math.max(result, open + close); 
+        //     }else if(open > close ){ // going from right to left , if open is more , it's is no more valid 
+        //         open = close = 0;
+        //     }
+
+        // }
+
+        // return result;
+      
+      // Stack Approch 
+        Deque<Integer> st = new ArrayDeque<>();
+        st.push(-1);
+
+        int maxL = 0;
         int n = s.length();
 
-        int open = 0;
-        int close = 0;
-
-        // Left To Right 
-        int result = 0;
-        for(int i = 0; i < n; i++){
-            if(s.charAt(i) == '('){
-                open++;
-            }else{
-                close++;
-            }
-
-            if(open == close ){
-                result = Math.max(result, open + close); 
-            }else if(close > open ){ // going from left to right , if close is more , it's no more valid 
-                open = close = 0;
+        for (int i = 0; i < n; i++) {
+            if (s.charAt(i) == '(') {
+                st.push(i);
+            } else {
+                st.pop();
+                if (st.isEmpty()) {
+                    st.push(i);
+                } else {
+                    maxL = Math.max(maxL, i - st.peek());
+                }
             }
         }
-
-        // Right To Left
-        open = 0;
-        close = 0;
-        for(int i = n-1; i >= 0; i--){ // at this time 
-            if(s.charAt(i) == '('){
-                open++;
-            }else{
-                close++;
-            }
-
-            if(open == close ){
-                result = Math.max(result, open + close); 
-            }else if(open > close ){ // going from right to left , if open is more , it's is no more valid 
-                open = close = 0;
-            }
-
-        }
-
-        return result;
+        return maxL;
         
     }
 }
