@@ -181,6 +181,7 @@
 | [0115-distinct-subsequences](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0838-push-dominoes](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0838-push-dominoes) |
 | [1140-stone-game-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1510-stone-game-iv) |
@@ -241,6 +242,7 @@
 | [0020-valid-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0962-maximum-width-ramp](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -263,6 +265,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0763-partition-labels) |
 | [0838-push-dominoes](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0838-push-dominoes) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -401,6 +405,7 @@
 | [0020-valid-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
