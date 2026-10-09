@@ -250,6 +250,7 @@
 | [0962-maximum-width-ramp](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1021-remove-outermost-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -279,6 +280,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
@@ -297,6 +299,7 @@
 | [0881-boats-to-save-people](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -421,6 +424,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
