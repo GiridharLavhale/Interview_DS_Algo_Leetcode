@@ -42,6 +42,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2270-number-of-ways-to-split-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -95,6 +96,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3634-minimum-removals-to-balance-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -305,6 +307,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
@@ -344,6 +347,7 @@
 | [1539-kth-missing-positive-number](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3634-minimum-removals-to-balance-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -434,4 +438,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
