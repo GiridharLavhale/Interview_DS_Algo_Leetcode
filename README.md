@@ -47,6 +47,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -76,6 +77,7 @@
 | [1386-cinema-seat-allocation](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -317,12 +319,14 @@
 | [1927-sum-game](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
