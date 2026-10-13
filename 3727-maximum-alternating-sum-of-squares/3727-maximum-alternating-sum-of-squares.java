@@ -2,16 +2,28 @@ class Solution {
     public long maxAlternatingSum(int[] nums) {
         int n = nums.length;
 
-        for(int i = 0; i < n; i++){
+        // Step 1: Square every element
+        for (int i = 0; i < n; i++) {
             nums[i] = nums[i] * nums[i];
         }
 
+        // Step 2: Sort the array
         Arrays.sort(nums);
 
-        long small = Arrays.stream(nums, 0, n/2).asLongStream().sum();
-        long large = Arrays.stream(nums, n/2,n).asLongStream().sum();
+        // Step 3: Calculate the sum of the larger half
+        long largeHalf = 0;
+        for (int i = n / 2; i < n; i++) {
+            largeHalf += nums[i];
+        }
 
-        return large - small;
-        
+        // Step 4: Calculate the sum of the smaller half
+        long smallHalf = 0;
+        for (int i = 0; i < n / 2; i++) {
+            smallHalf += nums[i];
+        }
+
+        // Step 5: Return the difference
+        return largeHalf - smallHalf;
     }
 }
+        
