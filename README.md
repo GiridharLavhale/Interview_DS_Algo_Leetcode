@@ -48,6 +48,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -79,6 +80,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -382,10 +384,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
