@@ -58,6 +58,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3634-minimum-removals-to-balance-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -87,6 +88,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3713-longest-balanced-substring-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -111,6 +113,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3731-find-missing-elements) |
