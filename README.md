@@ -69,6 +69,7 @@
 | [3731-find-missing-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -221,6 +222,7 @@
 | [1872-stone-game-viii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
@@ -352,6 +354,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -364,6 +367,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
