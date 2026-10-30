@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -491,8 +493,13 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1254-number-of-closed-islands) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
