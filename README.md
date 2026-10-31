@@ -63,6 +63,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3634-minimum-removals-to-balance-array](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -223,6 +224,7 @@
 | [1872-stone-game-viii](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3665-twisted-mirror-path-count](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
@@ -369,6 +371,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
