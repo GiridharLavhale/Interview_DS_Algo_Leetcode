@@ -165,6 +165,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/GiridharLavhale/Interview_DS_Algo_Leetcode/tree/master/0836-rectangle-overlap) |
